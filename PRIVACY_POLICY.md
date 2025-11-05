@@ -1,6 +1,6 @@
 # Privacy Policy for Burn and Turn Poker Trainer
 
-**Last Updated:** October 31, 2025
+**Last Updated:** November 5, 2025
 
 ## Introduction
 
@@ -69,7 +69,7 @@ You have the right to:
 - **Opt-Out**: Disable leaderboard participation in settings
 - **Export**: Download your training session history
 
-To exercise these rights, contact us at: [burnandturnpokertrainer@gmail.com]
+To exercise these rights, contact us at: burnandturnpokertrainer@gmail.com
 
 ## Children's Privacy
 
@@ -107,19 +107,9 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have questions or concerns about this Privacy Policy, please contact us:
 
-**Email:** [burnandturnpokertrainer@gmail.com]
+**Email:** burnandturnpokertrainer@gmail.com
 **App Support:** In-app feedback form (Settings → Support)
-<!-- **Website:** [YOUR_WEBSITE_URL] -->
 
 ## Consent
 
 By using Burn and Turn Poker Trainer, you consent to this Privacy Policy and agree to its terms.
-
-<!-- --- -->
-<!-- 
-**Note:** This is a template. Please:
-1. Replace [burnandturnpokertrainer@gmail.com] with your support email
-2. Replace [YOUR_WEBSITE_URL] with your website or leave blank
-3. Review with a legal professional before publishing
-4. Host this publicly (GitHub Pages, your website, etc.)
-5. Add the public URL to Google OAuth consent screen -->

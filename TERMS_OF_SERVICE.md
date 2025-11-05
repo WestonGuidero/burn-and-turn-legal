@@ -1,6 +1,6 @@
 # Terms of Service for Burn and Turn Poker Trainer
 
-**Last Updated:** October 31, 2025
+**Last Updated:** November 5, 2025
 
 ## 1. Acceptance of Terms
 
@@ -166,17 +166,14 @@ Continued use of the App after changes constitutes acceptance of the new Terms.
 
 ## 19. Governing Law
 
-These Terms shall be governed by the laws of **United States**, without regard to conflict of law provisions.
+These Terms shall be governed by the laws of the **State of California**, without regard to conflict of law provisions.
 
-Any disputes shall be resolved in the courts of **United States**.
+Any disputes shall be resolved in the state and federal courts located in **California**.
 
 ## 20. Dispute Resolution
 
 ### Informal Resolution
 Before filing a claim, you agree to contact us at burnandturnpokertrainer@gmail.com to attempt informal resolution.
-
-### Arbitration (Optional - Consult Legal Professional)
-Any disputes may be subject to binding arbitration rather than court proceedings.
 
 ## 21. Severability
 

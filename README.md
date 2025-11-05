@@ -10,9 +10,9 @@ This repository hosts the Privacy Policy and Terms of Service for Burn and Turn 
 ## Public URLs
 
 Once GitHub Pages is enabled, these documents will be available at:
-- Privacy Policy: `https://[your-username].github.io/burn-and-turn-legal/PRIVACY_POLICY.html`
-- Terms of Service: `https://[your-username].github.io/burn-and-turn-legal/TERMS_OF_SERVICE.html`
+- Privacy Policy: `https://westonguidero.github.io/burn-and-turn-legal/PRIVACY_POLICY`
+- Terms of Service: `https://westonguidero.github.io/burn-and-turn-legal/TERMS_OF_SERVICE`
 
 ## Last Updated
 
-October 31, 2025
+November 5, 2025
