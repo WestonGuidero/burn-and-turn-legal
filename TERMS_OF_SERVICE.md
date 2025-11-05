@@ -173,7 +173,7 @@ Any disputes shall be resolved in the state and federal courts located in **Cali
 ## 20. Dispute Resolution
 
 ### Informal Resolution
-Before filing a claim, you agree to contact us at burnandturnpokertrainer@gmail.com to attempt informal resolution.
+Before filing a claim, you agree to contact us via the in-app support form (Profile → Support) or email at burnandturnpokertrainer [at] gmail [dot] com to attempt informal resolution.
 
 ## 21. Severability
 
@@ -187,8 +187,8 @@ These Terms, together with our Privacy Policy, constitute the entire agreement b
 
 For questions about these Terms, contact us:
 
-**Email:** burnandturnpokertrainer@gmail.com
-**App Support:** Settings → Support
+**Primary Contact:** In-app support form (Profile → Support)
+**Email:** burnandturnpokertrainer [at] gmail [dot] com
 
 ## 24. Apple App Store and Google Play Store
 

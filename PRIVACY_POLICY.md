@@ -69,7 +69,7 @@ You have the right to:
 - **Opt-Out**: Disable leaderboard participation in settings
 - **Export**: Download your training session history
 
-To exercise these rights, contact us at: burnandturnpokertrainer@gmail.com
+To exercise these rights, contact us via the in-app support form (Profile → Support) or email: burnandturnpokertrainer [at] gmail [dot] com
 
 ## Children's Privacy
 
@@ -107,8 +107,8 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have questions or concerns about this Privacy Policy, please contact us:
 
-**Email:** burnandturnpokertrainer@gmail.com
-**App Support:** In-app feedback form (Settings → Support)
+**Primary Contact:** In-app support form (Profile → Support)
+**Email:** burnandturnpokertrainer [at] gmail [dot] com
 
 ## Consent
 
