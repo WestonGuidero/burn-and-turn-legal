@@ -33,3 +33,6 @@ build/
 # Misc
 .wap
 *.suo
+
+# Internal documentation (not for public users)
+SETUP_INSTRUCTIONS.md
